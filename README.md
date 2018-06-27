@@ -4,7 +4,7 @@
   
   使用SpringBoot maven构建dubbo demo
 
-### 项目安装：
+### 项目安装
 
 1. 首先安装zookeeper；[Zookeeper 安装教程](https://www.w3cschool.cn/zookeeper/zookeeper_installation.html)；
 
@@ -22,7 +22,7 @@
 
 ### 多提供者模拟
 
-1. 上面操作的 1 - 6 
+1. 操作上面的 1 - 6 
 
 2. 修改`dubbo-provider`服务提供者项目下`UserServiceImpl`，修改打印语句 node；
 
